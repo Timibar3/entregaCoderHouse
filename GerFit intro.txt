@@ -1,0 +1,30 @@
+GerFit es una aplicación para la generación automatica de rutinas diarias de entrenamiento.
+
+
+Diferenciar entre usuario o Admin
+
+El admin podra crear nuevos ejercicios
+
+El ususario elegira entre Principiante - Intermedio - Avanzado
+Las rutinas constaran de las siguientes etapas:
+
+Entrada en calor - (Tren superior o Tren inferior)
+1 x cada tipo x 10 repeticiones x 3 series - Principiante
+2 x cada tipo x 15 repeticiones x 4 series- Intermedio
+3 x cada tipo x 15 repeticiones x 4 series - Avanzado
+
+Entrenamiento principal - (Tren superior o Tren inferior)
+2 x cada tipo x 15 repeticiones x 3 series - Principiante
+2 x cada tipo x 10 repeticiones x 4 series- Intermedio
+3 x cada tipo x 8 repeticiones x 4 series - Avanzado
+
+Ejercicio de fuerza final - (full Body) 1
+15 repeticiones x 3 series - Principiante
+10 repeticiones x 4 series- Intermedio
+8 repeticiones x 4 series - Avanzado
+
+stretching - (rutinas)
+20" cada ejercicio - Principiante
+30" cada ejercicio - Intermedio
+45" cada ejercicio - Avanzado
+
